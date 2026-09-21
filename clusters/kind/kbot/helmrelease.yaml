@@ -13,3 +13,4 @@ spec:
         name: kbot
         namespace: flux-system
       interval: 1m
+      reconcileStrategy: Revision
